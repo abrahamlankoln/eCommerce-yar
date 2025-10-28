@@ -11,7 +11,6 @@ const PageContent = ({ children }) => (
       px-4
       sm:px-8
       py-10
-      outline outline-2 outline-red-500
     "
   >
     {children}
